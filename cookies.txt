@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+realityroleplay.shop	TRUE	/	FALSE	1999999999	xf_csrf	kw-TKLbr9WAV2rc8
+realityroleplay.shop	TRUE	/	FALSE	1999999999	xf_session	JiD3UNyTiFqZvgMCERBa47KGgJ0Fe0Va
+.discordapp.com	TRUE	/	FALSE	1999999999	_cfuvid	x8uxRFS1P.MSk_5f_TGEx5kFsxNEM2U2AVoxFERhYk8-1718472287902-0.0.1.1-604800000
+.discordapp.net	TRUE	/	FALSE	1999999999	__cfruid	80981cef71ee46c084be3db89d28425ede21b9c2-1718473551
+.discordapp.net	TRUE	/	FALSE	1999999999	_cfuvid	kvM6.W69JBJJ85XhmJ5U_Z7V6innNrRDmA3SbUerh5s-1718473551506-0.0.1.1-604800000
+media.discordapp.net	TRUE	/	FALSE	1999999999	SameSite	None
+.discordapp.com	TRUE	/	FALSE	1999999999	__cf_bm	R0DZxAWLIPS4b6HzdxWSFrAhrMS4EdN.CAPuMdlpc.4-1718474202-1.0.1.1-PSn4jsu8FcQEsxCu8fmJG8r1r_lodVu73oDegLg_MxiXXZq2szyscwOxVnMJhOT5Q2dYS6WWHtzbOkdIZGz1IQ
+cdn.discordapp.com	TRUE	/	FALSE	1999999999	SameSite	None
+
